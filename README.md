@@ -1,2 +1,1 @@
-This repo contains some of my Kotlin homework. It is not a project (Day 2)
-Testing
+This repo contains my Kotlin homework. It is not a project
